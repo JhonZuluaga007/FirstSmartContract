@@ -3,7 +3,7 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 contract Asset {
-    string public tokenName = "CryptoPlatzi";
+    string public tokenName = "PaloPoints";
 
     event ChangeName(address editor, string newName);
 
